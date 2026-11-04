@@ -1,6 +1,6 @@
-# Catálogo de Apps — Estudo de caso
+# Catálogo de Apps
 
-Estudo de caso de um aplicativo corporativo de governança de aplicativos e componentes (Power Apps + SharePoint), com uma **demo interativa recriada em HTML**.
+Aplicativo corporativo de governança de aplicativos e componentes (Power Apps + SharePoint), com uma **demo interativa recriada em HTML**.
 
 > Todos os nomes de empresa, pessoas, áreas, aplicativos, listas, links e identificadores desta página são **fictícios**. Nenhum dado real foi utilizado.
 
