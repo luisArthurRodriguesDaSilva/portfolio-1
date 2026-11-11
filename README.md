@@ -12,7 +12,7 @@ Aplicativo corporativo de governança de aplicativos e componentes (Power Apps +
 - Visão por perfil e representação de usuário
 
 ## Como abrir
-Acesse a página publicada pelo GitHub Pages. Funciona em desktop e celular.
+Acesse a página publicada pelo GitHub Pages em https://lnkd.in/dWbXvriG. Funciona em desktop e celular.
 
 ## Autora
 Giulia Perrone
